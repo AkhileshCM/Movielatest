@@ -1,0 +1,39 @@
+.maindetail{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    margin-top: 200px;
+
+}
+.dp img{
+    min-width: 150px;
+    min-height: 150px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: blue;
+}
+.details h1 h3{
+    width: fit-content;
+
+}
+.details h3{
+    display: inline
+}
+.details{
+    margin-left: -100px;
+}
+.signoutt{
+    width: fit-content;
+    height: 30px;cursor: pointer;
+    background-color: red;
+    padding: 3px;
+    box-sizing: border-box;
+    margin-left: 30px;
+}
+.photolink{
+    margin-left: 24px;
+    cursor: pointer;
+    
+}
